@@ -53,6 +53,10 @@
 .banner-details-pg{
     margin-top: 20px;
     margin-bottom: 10px;
+    font-weight:100;
+}
+.btn{
+    margin-top: 20px;
 }
 .btn-one{
     padding: 15px 20px;
@@ -60,10 +64,12 @@
     background: #FF900E ;
     color: white;
     border: none;
+    cursor: pointer;
 
 }
 .banner-img {
     margin-top: 50px;
+    padding-bottom: 20px;
 }
 .banner-img img{
     width: 100%;
